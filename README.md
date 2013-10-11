@@ -14,3 +14,6 @@ Reportedly, you can also copy to:
 
 More details on developing this Codeless Language Module here:
 http://www.barebones.com/support/develop/clm.html
+
+Virtually no information on the DMIS standard from the Dimensional Metrology Standards Consortium (DMSC) here:
+http://www.dmisstandards.org/
